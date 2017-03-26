@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<handlers>
+	<handler name="op0" type="Operator"/>
+	<handler name="op1" type="Operator"/>
+	<handler name="op2" type="Operator"/>
+	<handler name="op3" type="Operator"/>
+	<handler name="su1" type="Supervisor"/>
+	<handler name="su2" type="Supervisor"/>
+	<handler name="dir" type="Director"/>
+</handlers>
